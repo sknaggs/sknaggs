@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello / こんにちは. I'm Stacey - a Full Stack Web Developer 👋
 
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
 
