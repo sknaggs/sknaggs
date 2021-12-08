@@ -11,6 +11,9 @@ YAML         21 mins         ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+Started a new job in Nov 2021 and this is how long I've spent coding!
+[![wakatime](https://wakatime.com/badge/user/86082ce1-bca4-4a02-a7a3-c2242e42ac7a/project/12b01edb-1cc9-44e6-b4ef-181fde524dc6.svg)](https://wakatime.com/badge/user/86082ce1-bca4-4a02-a7a3-c2242e42ac7a/project/12b01edb-1cc9-44e6-b4ef-181fde524dc6)
+
 <!--
 **sknaggs/sknaggs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
