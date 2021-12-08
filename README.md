@@ -1,5 +1,6 @@
 ### Hello / こんにちは. I'm Stacey - a Full Stack Web Developer 👋
 
+#### Within the past week for my current full-time job (and sometimes a personal project in my own time), I've been using:
 <!--START_SECTION:waka-->
 ```text
 JavaScript   11 hrs 9 mins   ███████████████████░░░░░░   76.05 % 
