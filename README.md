@@ -13,4 +13,4 @@ CSS          37 mins         █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-#### I'm also working on a project for a client. This is how much I've done for them so far: [![wakatime](https://wakatime.com/badge/user/8ee03c5d-7d98-49f4-8d0f-1a6ade1c9e19/project/025ae33d-3975-4e0b-bc9b-22a44db04966.svg)](https://wakatime.com/badge/user/8ee03c5d-7d98-49f4-8d0f-1a6ade1c9e19/project/025ae33d-3975-4e0b-bc9b-22a44db04966)
+#### I'm also working on a project for a client. This is how much I've done for them so far: [![wakatime](https://wakatime.com/badge/user/8ee03c5d-7d98-49f4-8d0f-1a6ade1c9e19/project/5bc43805-de54-41d6-a7b7-44e5a8ecc477.svg)](https://wakatime.com/badge/user/8ee03c5d-7d98-49f4-8d0f-1a6ade1c9e19/project/5bc43805-de54-41d6-a7b7-44e5a8ecc477)
