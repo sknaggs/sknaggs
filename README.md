@@ -6,10 +6,10 @@ Started a new job in Nov 2021 and this is how long I've spent coding new things 
 <!--START_SECTION:waka-->
 
 ```text
-SCSS         11 hrs 41 mins  ███████████░░░░░░░░░░░░░░   44.17 %
-HTML         9 hrs 57 mins   █████████▒░░░░░░░░░░░░░░░   37.61 %
-JavaScript   3 hrs 57 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.96 %
-Other        26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+HTML         9 hrs 32 mins   █████████▓░░░░░░░░░░░░░░░   38.32 %
+SCSS         9 hrs 1 min     █████████░░░░░░░░░░░░░░░░   36.21 %
+JavaScript   5 hrs 36 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.48 %
+Other        24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 ```
 
 <!--END_SECTION:waka-->
